@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **iruzz/iruzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm iruzz 👋
+
+Welcome to my GitHub profile!
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=iruzz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
