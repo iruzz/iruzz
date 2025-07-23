@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm iruzz</h1>
-<h3 align="center">Just a guy who writes code and breaks stuff (sometimes on purpose)</h3>
----
+<h3 align="center">Just a guy who writes code and breaks stuff</h3>
 
 ### 🧰 Tools & Tech Stack
 
