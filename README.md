@@ -1,21 +1,35 @@
+<h1 align="center">Hi 👋, I'm iruzz</h1>
+<h3 align="center">Just a guy who writes code and breaks stuff (sometimes on purpose)</h3>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iruzz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<!--
-**iruzz/iruzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧰 Tools & Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm iruzz 👋
+<p>
+  <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=7952B3" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=FF2D20" />
+  <img src="https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1" />
+</p>
 
-Welcome to my GitHub profile!
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iruzz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iruzz&show_icons=true&theme=tokyonight&hide_border=true" alt="iruzz's GitHub stats" />
+</p>
+
+---
+
+### 📫 Reach Me
+<p>
+  <!-- Ganti ini nanti sesuai link kamu -->
+  💬 DM di IG: [@your_ig](https://instagram.com/iruuuzs)  
+  ✉️ Email: rabbaniruzz45@gmail.com  
+</p>
