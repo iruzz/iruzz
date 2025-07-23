@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm iruzz</h1>
 <h3 align="center">Just a guy who writes code and breaks stuff (sometimes on purpose)</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iruzz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🧰 Tools & Tech Stack
@@ -25,11 +20,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iruzz&show_icons=true&theme=tokyonight&hide_border=true" alt="iruzz's GitHub stats" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iruzz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
 ---
 
 ### 📫 Reach Me
 <p>
   <!-- Ganti ini nanti sesuai link kamu -->
-  💬 DM di IG: [@your_ig](https://instagram.com/iruuuzs)  
+  💬 DM di IG: [@iruuuzs)  
   ✉️ Email: rabbaniruzz45@gmail.com  
 </p>
