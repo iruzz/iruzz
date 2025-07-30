@@ -17,8 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=iruzz&show_icons=true&theme=tokyonight&hide_border=true" alt="iruzz's GitHub stats" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats-iota-sooty.vercel.app?user=iruzz&theme=violet-punch&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats-iota-sooty.vercel.app?user=iruzz&theme=violet-punch&hide_border=true&card_width=700)](https://git.io/streak-stats)
 ---
 
 ### 📫 Reach Me
