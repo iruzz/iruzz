@@ -3,7 +3,7 @@
 
 # 💻 Tech Stack:
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -16,7 +16,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iruzz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -24,15 +24,12 @@
   <img src="https://github-readme-streak-stats-iota-sooty.vercel.app?user=iruzz&theme=violet-punch&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
 
-### 📫 Reach Me
+## 📫 Reach Me
 
 <p>
   <a href="https://instagram.com/iruuuzs"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:rabbaniruzz45@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
 
 <p align="center"><i>“Break things. Fix them. Repeat.”</i></p>
