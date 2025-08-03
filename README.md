@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm iruzz</h1>
-<h4 align="center">Just a guy who writes code and breaks stuff</h4>
+<h1>Hi 👋, I'm iruzz</h1>
+<h4>Just a guy who writes code and breaks stuff</h4>
 
----
-
-### 💻 Tech Stack
+# 💻 Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -30,7 +28,7 @@
 
 ### 📫 Reach Me
 
-<p align="center">
+<p>
   <a href="https://instagram.com/iruuuzs"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:rabbaniruzz45@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
